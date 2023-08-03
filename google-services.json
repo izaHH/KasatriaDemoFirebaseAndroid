@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "364333283935",
+    "project_id": "kasatria-ga4-live",
+    "storage_bucket": "kasatria-ga4-live.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364333283935:android:d4a23e58eea5dc00aaf9ea",
+        "android_client_info": {
+          "package_name": "com.example.kasatria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364333283935-dva1pakuhba4k83tqabu4h13ci8m134r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7d4a2YAlXhZCclCwfQjDzw29MwW5qt0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364333283935-dva1pakuhba4k83tqabu4h13ci8m134r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "364333283935-oa0kcnh062fu0krd7t5hnt0uppch5bj1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kasatria.kasatria"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364333283935:android:10ee3e902b9d594faaf9ea",
+        "android_client_info": {
+          "package_name": "com.example.kasatriapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364333283935-dva1pakuhba4k83tqabu4h13ci8m134r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7d4a2YAlXhZCclCwfQjDzw29MwW5qt0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364333283935-dva1pakuhba4k83tqabu4h13ci8m134r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "364333283935-oa0kcnh062fu0krd7t5hnt0uppch5bj1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kasatria.kasatria"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364333283935:android:bc588fb725b3f34baaf9ea",
+        "android_client_info": {
+          "package_name": "com.kasatria.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364333283935-dva1pakuhba4k83tqabu4h13ci8m134r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7d4a2YAlXhZCclCwfQjDzw29MwW5qt0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364333283935-dva1pakuhba4k83tqabu4h13ci8m134r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "364333283935-oa0kcnh062fu0krd7t5hnt0uppch5bj1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kasatria.kasatria"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
